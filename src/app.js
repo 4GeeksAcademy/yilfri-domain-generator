@@ -17,5 +17,3 @@ window.onload = function () {
     }
   }
 };
-
-
